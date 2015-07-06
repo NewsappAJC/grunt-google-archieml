@@ -121,7 +121,6 @@ module.exports = function(grunt) {
 
       drive.files.get({fileId: file_key}, function (err, doc) {
         var doc_name = doc.title;
-        grunt.log.write(doc.title);
         var export_links = doc.exportLinks['text/html'];
         auth._makeRequest({method: "GET", uri: export_links}, function(err, body) {
 
