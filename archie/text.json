@@ -1,0 +1,21 @@
+{
+    "headline": "This is my test story",
+    "leadin": "This is my leadin text for my test story. It explains more about the story.",
+    "text_sections": [
+        {
+            "section": "Section 1",
+            "head": "Cool paragraph",
+            "text": "Lorem ipsum Irure proident occaecat deserunt dolore ea in laboris Excepteur non et mollit eu dolore cupidatat et qui tempor fugiat Excepteur ullamco in quis amet anim fugiat incididunt ullamco nostrud id non Excepteur anim ut nulla et labore ea Duis ex sed aliquip ut pariatur incididunt ex sed velit incididunt dolore minim sit laborum aute et ut ullamco fugiat nisi eiusmod eu ad occaecat ut amet et sit veniam cillum labore fugiat Duis reprehenderit consequat consectetur Ut do adipisicing aliqua ullamco exercitation consequat aute ea minim aliquip ut dolore elit ea qui adipisicing consequat adipisicing ea consequat in tempor Excepteur Duis mollit"
+        },
+        {
+            "section": "Section 2",
+            "head": "Another cool graph",
+            "text": "consectetur Ut do adipisicing aliqua ullamco exercitation consequat aute ea minim aliquip ut dolore elit ea qui adipisicing consequat adipisicing ea consequat in tempor Excepteur Duis mollit Excepteur officia Ut in labore velit sit culpa proident elit laboris tempor enim irure magna minim in fugiat consequat mollit nostrud culpa sunt Duis dolor consectetur aliqua anim ullamco"
+        },
+        {
+            "section": "Section 3",
+            "head": "The coolest graph of them all",
+            "text": "Excepteur officia Ut in labore velit sit culpa proident elit laboris tempor enim irure magna minim in fugiat consequat mollit nostrud culpa sunt Duis dolor consectetur aliqua anim ullamco Excepteur ut velit incididunt exercitation incididunt Duis ex cupidatat voluptate dolore dolor et mollit dolore deserunt minim in ut nisi id cillum sed nostrud laborum officia ex esse labore dolore amet anim anim ea in culpa qui cillum laborum labore veniam irure Excepteur adipisicing aute amet velit culpa Duis dolore enim tempor aliquip occaecat irure fugiat pariatur sunt aliquip occaecat Duis in ut nulla labore deserunt tempor deserunt et qui non Excepteur ullamco aliquip incididunt in ea ut qui quis velit sed tempor exercitation laborum labore mollit nulla veniam irure veniam consequat in occaecat irure dolore fugiat consequat amet commodo labore nostrud."
+        }
+    ]
+}
