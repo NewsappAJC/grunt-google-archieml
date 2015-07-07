@@ -31,11 +31,14 @@ module.exports = function(grunt) {
     // Configuration to be run (and then tested).
     archieml: {
       default_options: {
-        options: {
-          credentials:'config/client_secret.json',
-          fileID: '1phiDD07FGcnApHk93xhLaWfbTRm9LhTmQHs8acsagj0'
+        google: {
+          options: {
+            // credentials:'config/client_secret.json',
+            // fileID: '1phiDD07FGcnApHk93xhLaWfbTRm9LhTmQHs8acsagj0'
+          }
         }
       }
+      
     },
 
     // Unit tests.
